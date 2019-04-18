@@ -1,0 +1,5 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+/data/*
+/homework/.ipynb_checkpoints
+/homework/.ipynb_checkpoints/*
